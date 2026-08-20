@@ -1,1 +1,1 @@
-version=1.0
+Application configuration - FEATURE
