@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Application configuration - FEATURE
+=======
 Application configuration - DEVELOP
+>>>>>>> develop
